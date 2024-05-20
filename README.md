@@ -1,7 +1,7 @@
 
 ![Screenshot (164)](https://github.com/OfemiAdeniyi/Data-Professional-Survey-Analysis/assets/160871523/60607bf4-42b9-4916-9979-92b195f4ba86)
 
-# Dataet:
+# Dataset:
 Data Professional Survey Data
 
 # Operations Performed:
